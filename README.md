@@ -12,7 +12,11 @@ Ao longo do projeto, serão realizadas análises das imagens e dos dados, além 
 
 O **BRSET** reúne imagens de fundo de olho de pacientes brasileiros, junto com informações clínicas e classificações relacionadas às imagens.
 
-O dataset utilizado neste projeto está disponível no PhysioNet:
+Os dados utilizados neste projeto foram obtidos a partir do repositório disponibilizado no GitHub:
+
+https://github.com/luisnakayama/BRSET
+
+O dataset original e sua documentação estão disponíveis no PhysioNet:
 
 https://physionet.org/content/brazilian-ophthalmological/1.0.2/
 
@@ -24,6 +28,13 @@ Os resultados e aprendizados obtidos durante o desenvolvimento serão registrado
 
 ## Fonte dos dados
 
-**Brazilian Multilabel Ophthalmological Dataset (BRSET)** — PhysioNet.
+**Brazilian Multilabel Ophthalmological Dataset (BRSET)**
+
+Repositório utilizado para obtenção dos dados:
+
+https://github.com/luisnakayama/BRSET
+
+Fonte original e documentação:
 
 https://physionet.org/content/brazilian-ophthalmological/1.0.2/
+
